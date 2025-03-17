@@ -9,7 +9,7 @@
 - **Configurable hotkeys** - Bound to F5 (start autotyper) and F9 (start multi-typer) by default, can be changed in settings
 
 ## Screenshots
-<img src="https://github.com/user-attachments/assets/d5ed191e-81ad-49f8-a278-4a40b2907478" height="500"/> <img src="https://github.com/user-attachments/assets/739acf17-c95f-48a0-b460-7bfde8bde004" height="500"/>
+<img src="https://github.com/user-attachments/assets/d5ed191e-81ad-49f8-a278-4a40b2907478" height="600"/> <img src="https://github.com/user-attachments/assets/739acf17-c95f-48a0-b460-7bfde8bde004" height="600"/>
 
 ## Installation
 Be sure to have the following dependencies:<br/>
